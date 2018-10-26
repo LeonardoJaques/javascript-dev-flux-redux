@@ -8,9 +8,9 @@
     "start": "webpack-dev-server --content-base public/ --inline"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {  },
+  "author": "Leoanrdo Jaques @lajaques",
+  "license": "MIT",
+  "dependencies": {},
   "engine": "node 7.2.0",
   "devDependencies": {
     "babel-core": "^6.18.2",
